@@ -32,7 +32,7 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="addGoal.html">
-            Citi
+            Fitness Tracker
           </a>
           <ul class="nav">
           </ul>
